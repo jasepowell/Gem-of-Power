@@ -1,3 +1,13 @@
+# 💎 Gem of Power
+
+## How to play
+
+0. Open this repository in Visual Studio Code
+1. Open `gem_of_power.py` in Visual Studio Code
+2. Click the "Run" button
+3. (optional) Type `help` at the prompt to learn the commands
+
+## The whole story
 you walk into a great hall. you almost you almost fall down to a sewer ,but you see the gem.
  one elve asks you "should we jump down and hope the waters high -n or should we just find another way -y?"
  you go out to a sidewalk ,and you find a way into a house. Yo can't find anything inside so you go outside a group of goblins ambush you
