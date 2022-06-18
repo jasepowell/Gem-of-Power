@@ -1,4 +1,3 @@
-
 from lib.engine import *
 
 Room.items = Bag()
@@ -58,7 +57,11 @@ a wizard says "i'm suprized you made it this far i'll let you just go for this o
 """)
 
 elf_room6 = elf_room5.south = Room("""
-you spot a wizard and he says"good job goblins you may go now" "ok" says a goblin you go in and hide to ambush the dwarves
+You spot a wizard and he says "Good job goblins, you may go now".
+
+"Ok" says a goblin.
+
+You go in and hide to ambush the dwarves.
 """)
 
 dwarf_room7 = dwarf_room6.north = Room("""
