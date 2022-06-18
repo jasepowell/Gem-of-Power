@@ -1,4 +1,4 @@
-from adventurelib import *
+from lib.engine import *
 
 Room.items = Bag()
 
